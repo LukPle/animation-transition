@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 activityOptions = ActivityOptions.makeScaleUpAnimation(view, 0, 0, view.getWidth(), view.getHeight());
                 startActivity(intent, activityOptions.toBundle());
                 break;
-                
+
             case R.id.button_login_custom:
                 activityOptions = ActivityOptions.makeCustomAnimation
                         (MainActivity.this, R.anim.slide_in_right, R.anim.slide_out_left);
