@@ -9,7 +9,10 @@ The application serves as an example of this feature.
 
 ## Features
 The setting of this program is a login screen. The user can choose one of the three options to access the next screen. Each options triggers a different animation.
-One of them is also a custom animation.
+One of them is also a custom animation. </br>
+
+![](demo_pictures/Screen1.png)
+![](demo_pictures/Screen2.png)
 
 ## Usage
 You can clone the repository into Android Studio by clicking "Get from VCS" in the Welcome Screen or navigating to "File - New - Project from Version Control" inside 
